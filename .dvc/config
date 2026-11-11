@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = ../../dvc-storage
+    url = /workspaces/iris-dvc-assignment/dvc-storage
